@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/JithxWorks/Leetcodes/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/JithxWorks/Leetcodes/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/JithxWorks/Leetcodes/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JithxWorks/Leetcodes/tree/master/0371-sum-of-two-integers) |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JithxWorks/Leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/JithxWorks/Leetcodes/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/JithxWorks/Leetcodes/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
