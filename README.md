@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/JithxWorks/Leetcodes/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JithxWorks/Leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/JithxWorks/Leetcodes/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 | [1470-shuffle-the-array](https://github.com/JithxWorks/Leetcodes/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/JithxWorks/Leetcodes/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/JithxWorks/Leetcodes/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/JithxWorks/Leetcodes/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JithxWorks/Leetcodes/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JithxWorks/Leetcodes/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
