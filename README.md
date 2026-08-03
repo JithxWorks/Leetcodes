@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/JithxWorks/Leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/JithxWorks/Leetcodes/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/JithxWorks/Leetcodes/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/JithxWorks/Leetcodes/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/JithxWorks/Leetcodes/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/JithxWorks/Leetcodes/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/JithxWorks/Leetcodes/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/JithxWorks/Leetcodes/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 ## String
 |  |
 | ------- |
@@ -82,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JithxWorks/Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
