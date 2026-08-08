@@ -3,8 +3,7 @@ class Solution:
         n = len(word1)
         m = len(word2)
 
-        # suf[i] = maximum number of characters
-        # that can be matched exactly from word1[i:]
+        
         suf = [0] * (n + 1)
 
         j = m - 1
