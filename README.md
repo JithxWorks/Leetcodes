@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/JithxWorks/Leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/JithxWorks/Leetcodes/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/JithxWorks/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/JithxWorks/Leetcodes/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/JithxWorks/Leetcodes/tree/master/1929-concatenation-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/JithxWorks/Leetcodes/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/JithxWorks/Leetcodes/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/JithxWorks/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JithxWorks/Leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JithxWorks/Leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/JithxWorks/Leetcodes/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/JithxWorks/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JithxWorks/Leetcodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/JithxWorks/Leetcodes/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/JithxWorks/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 ## String
 |  |
@@ -98,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/JithxWorks/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/JithxWorks/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -132,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JithxWorks/Leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/JithxWorks/Leetcodes/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
