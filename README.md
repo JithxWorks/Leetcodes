@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/JithxWorks/Leetcodes/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/JithxWorks/Leetcodes/tree/master/1929-concatenation-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JithxWorks/Leetcodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/JithxWorks/Leetcodes/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JithxWorks/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/JithxWorks/Leetcodes/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JithxWorks/Leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JithxWorks/Leetcodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/JithxWorks/Leetcodes/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/JithxWorks/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/JithxWorks/Leetcodes/tree/master/0268-missing-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JithxWorks/Leetcodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/JithxWorks/Leetcodes/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
