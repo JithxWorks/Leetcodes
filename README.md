@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/JithxWorks/Leetcodes/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/JithxWorks/Leetcodes/tree/master/1929-concatenation-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/JithxWorks/Leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JithxWorks/Leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JithxWorks/Leetcodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/JithxWorks/Leetcodes/tree/master/3731-find-missing-elements) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JithxWorks/Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/JithxWorks/Leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JithxWorks/Leetcodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JithxWorks/Leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/JithxWorks/Leetcodes/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/JithxWorks/Leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/JithxWorks/Leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
