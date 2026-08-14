@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JithxWorks/Leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JithxWorks/Leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JithxWorks/Leetcodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JithxWorks/Leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/JithxWorks/Leetcodes/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JithxWorks/Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JithxWorks/Leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JithxWorks/Leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JithxWorks/Leetcodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JithxWorks/Leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JithxWorks/Leetcodes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JithxWorks/Leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JithxWorks/Leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
 |  |
 | ------- |
