@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/JithxWorks/Leetcodes/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/JithxWorks/Leetcodes/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/JithxWorks/Leetcodes/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/JithxWorks/Leetcodes/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/JithxWorks/Leetcodes/tree/master/1470-shuffle-the-array) |
 | [1563-stone-game-v](https://github.com/JithxWorks/Leetcodes/tree/master/1563-stone-game-v) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/JithxWorks/Leetcodes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/JithxWorks/Leetcodes/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JithxWorks/Leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/JithxWorks/Leetcodes/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JithxWorks/Leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JithxWorks/Leetcodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/JithxWorks/Leetcodes/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/JithxWorks/Leetcodes/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JithxWorks/Leetcodes/tree/master/0371-sum-of-two-integers) |
+| [1386-cinema-seat-allocation](https://github.com/JithxWorks/Leetcodes/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JithxWorks/Leetcodes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/JithxWorks/Leetcodes/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/JithxWorks/Leetcodes/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JithxWorks/Leetcodes/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JithxWorks/Leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
