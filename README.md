@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JithxWorks/Leetcodes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JithxWorks/Leetcodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JithxWorks/Leetcodes/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JithxWorks/Leetcodes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/JithxWorks/Leetcodes/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JithxWorks/Leetcodes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/JithxWorks/Leetcodes/tree/master/3731-find-missing-elements) |
@@ -55,18 +56,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/JithxWorks/Leetcodes/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/JithxWorks/Leetcodes/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/JithxWorks/Leetcodes/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JithxWorks/Leetcodes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JithxWorks/Leetcodes/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JithxWorks/Leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JithxWorks/Leetcodes/tree/master/0268-missing-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JithxWorks/Leetcodes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/JithxWorks/Leetcodes/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/JithxWorks/Leetcodes/tree/master/0371-sum-of-two-integers) |
 | [1386-cinema-seat-allocation](https://github.com/JithxWorks/Leetcodes/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JithxWorks/Leetcodes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/JithxWorks/Leetcodes/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JithxWorks/Leetcodes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/JithxWorks/Leetcodes/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -197,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/JithxWorks/Leetcodes/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JithxWorks/Leetcodes/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
