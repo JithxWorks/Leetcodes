@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JithxWorks/Leetcodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/JithxWorks/Leetcodes/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/JithxWorks/Leetcodes/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/JithxWorks/Leetcodes/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/JithxWorks/Leetcodes/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/JithxWorks/Leetcodes/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/JithxWorks/Leetcodes/tree/master/1386-cinema-seat-allocation) |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JithxWorks/Leetcodes/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/JithxWorks/Leetcodes/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
